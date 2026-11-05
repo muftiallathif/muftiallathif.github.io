@@ -1,4 +1,4 @@
-// Dibuat otomatis oleh scripts/pwa.py di repo umroh-satu-hati.
+// Dibuat otomatis oleh situs/scripts/pwa.py di repo ittiba.
 var CACHE = 'umrah-v1';
 var HALAMAN = ['./', './panduan/', './lengkap/'];
 self.addEventListener('install', function (e) {
